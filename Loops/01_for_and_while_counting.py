@@ -14,5 +14,5 @@ while number >= 1:
     print(number)
     number = number - 1
 
-# Time Complexity: O(n) -> each loop runs 50 times, one print per number
-# Space Complexity: O(1) -> we only store one counter variable at a time
+# Time Complexity: O(n)
+# Space Complexity: O(1)
